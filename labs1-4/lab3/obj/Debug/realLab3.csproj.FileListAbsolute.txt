@@ -1,0 +1,7 @@
+D:\ucheba\code\c#z\realLab3\bin\Debug\realLab3.exe.config
+D:\ucheba\code\c#z\realLab3\bin\Debug\realLab3.exe
+D:\ucheba\code\c#z\realLab3\bin\Debug\realLab3.pdb
+D:\ucheba\code\c#z\realLab3\obj\Debug\realLab3.csproj.AssemblyReference.cache
+D:\ucheba\code\c#z\realLab3\obj\Debug\realLab3.csproj.CoreCompileInputs.cache
+D:\ucheba\code\c#z\realLab3\obj\Debug\realLab3.exe
+D:\ucheba\code\c#z\realLab3\obj\Debug\realLab3.pdb

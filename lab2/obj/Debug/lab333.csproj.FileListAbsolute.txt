@@ -1,7 +1,0 @@
-D:\ucheba\code\c#z\lab333\bin\Debug\lab333.exe.config
-D:\ucheba\code\c#z\lab333\bin\Debug\lab333.exe
-D:\ucheba\code\c#z\lab333\bin\Debug\lab333.pdb
-D:\ucheba\code\c#z\lab333\obj\Debug\lab333.csproj.AssemblyReference.cache
-D:\ucheba\code\c#z\lab333\obj\Debug\lab333.csproj.CoreCompileInputs.cache
-D:\ucheba\code\c#z\lab333\obj\Debug\lab333.exe
-D:\ucheba\code\c#z\lab333\obj\Debug\lab333.pdb

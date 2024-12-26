@@ -1,0 +1,7 @@
+D:\ucheba\code\c#z\lab5\bin\Debug\lab5.exe.config
+D:\ucheba\code\c#z\lab5\bin\Debug\lab5.exe
+D:\ucheba\code\c#z\lab5\bin\Debug\lab5.pdb
+D:\ucheba\code\c#z\lab5\obj\Debug\lab5.csproj.AssemblyReference.cache
+D:\ucheba\code\c#z\lab5\obj\Debug\lab5.csproj.CoreCompileInputs.cache
+D:\ucheba\code\c#z\lab5\obj\Debug\lab5.exe
+D:\ucheba\code\c#z\lab5\obj\Debug\lab5.pdb

@@ -1,0 +1,13 @@
+D:\ucheba\code\c#z\lab9\bin\Debug\lab9.exe.config
+D:\ucheba\code\c#z\lab9\bin\Debug\lab9.exe
+D:\ucheba\code\c#z\lab9\bin\Debug\lab9.pdb
+D:\ucheba\code\c#z\lab9\obj\Debug\lab9.csproj.AssemblyReference.cache
+D:\ucheba\code\c#z\lab9\obj\Debug\lab9.Form1.resources
+D:\ucheba\code\c#z\lab9\obj\Debug\lab9.Properties.Resources.resources
+D:\ucheba\code\c#z\lab9\obj\Debug\lab9.csproj.GenerateResource.cache
+D:\ucheba\code\c#z\lab9\obj\Debug\lab9.csproj.CoreCompileInputs.cache
+D:\ucheba\code\c#z\lab9\obj\Debug\lab9.exe
+D:\ucheba\code\c#z\lab9\obj\Debug\lab9.pdb
+D:\ucheba\code\c#z\lab9\bin\Debug\Newtonsoft.Json.dll
+D:\ucheba\code\c#z\lab9\bin\Debug\Newtonsoft.Json.xml
+D:\ucheba\code\c#z\lab9\obj\Debug\lab9.csproj.Up2Date

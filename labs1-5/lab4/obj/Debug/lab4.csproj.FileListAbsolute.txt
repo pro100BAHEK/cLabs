@@ -1,7 +1,0 @@
-D:\ucheba\code\c#z\lab4\bin\Debug\lab4.exe.config
-D:\ucheba\code\c#z\lab4\bin\Debug\lab4.exe
-D:\ucheba\code\c#z\lab4\bin\Debug\lab4.pdb
-D:\ucheba\code\c#z\lab4\obj\Debug\lab4.csproj.AssemblyReference.cache
-D:\ucheba\code\c#z\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
-D:\ucheba\code\c#z\lab4\obj\Debug\lab4.exe
-D:\ucheba\code\c#z\lab4\obj\Debug\lab4.pdb
